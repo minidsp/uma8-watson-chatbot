@@ -11,11 +11,9 @@ The miniDSP UMA-8 microphone array, with onboard direction detection, echo cance
     1 x miniDSP UMA-8 USB Microphone Array
     An IBM BlueMix Account (see below details for registration)
 
-# As for skillset required to put this demo together, you'll need:
+# Links:
 
-    Some basic experience with the Raspberry Pi platform
-    Some basic Bash skills (cd, ls, etc.)
-    Basic Nano text editor skills (opening and saving)
-    An eager mind, ready to learn how to make a Watson chat-bot!
+    [miniDSP UMA-8 product page (datasheet/user manual)] https://www.minidsp.com/products/usb-audio-interface/uma-8-microphone-array
+    [Step by Step app note to implement UMA-8 Chatbot] https://www.minidsp.com/applications/usb-mic-array/uma-8-ibm-watson-chatbot
 
-For a complete step by step app note, check out https://www.minidsp.com/applications/usb-mic-array/uma-8-ibm-watson-chatbot
+Copyright © miniDSP Ltd 2017. All Rights Reserved.
