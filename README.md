@@ -13,7 +13,7 @@ The miniDSP UMA-8 microphone array, with onboard direction detection, echo cance
 
 # Links:
 
-    [miniDSP UMA-8 product page (datasheet/user manual)] https://www.minidsp.com/products/usb-audio-interface/uma-8-microphone-array
-    [Step by Step app note to implement UMA-8 Chatbot] https://www.minidsp.com/applications/usb-mic-array/uma-8-ibm-watson-chatbot
+    [miniDSP UMA-8 product page (datasheet/user manual)](https://www.minidsp.com/products/usb-audio-interface/uma-8-microphone-array)
+    [Step by Step app note to implement UMA-8 Chatbot](https://www.minidsp.com/applications/usb-mic-array/uma-8-ibm-watson-chatbot)
 
 Copyright © miniDSP Ltd 2017. All Rights Reserved.
